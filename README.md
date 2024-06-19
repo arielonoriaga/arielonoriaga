@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm Ariel Onoriaga, a passionate software develope
 - ![Pixi.js](https://img.shields.io/badge/Pixi.js-8DD6F9?logo=pixiv&logoColor=fff&style=flat-square)
 - ![Matter.js](https://img.shields.io/badge/Matter.js-FF6F61?logo=javascript&logoColor=fff&style=flat-square)
 
-### Other Tools & Languages 🔧
+### Main Language 🔧
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square) (my master language)
 
 I continuously strive to expand my knowledge and improve my skills. I'm passionate about creating efficient, scalable, and maintainable code. Feel free to explore my repositories to see the various projects I've worked on.
