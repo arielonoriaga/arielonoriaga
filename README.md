@@ -39,4 +39,4 @@ Looking forward to collaborating and building amazing projects together! ✨
 
 ---
 
-<a href="https://app.daily.dev/aonoriaga"><img src="https://api.daily.dev/devcards/293c16416260494d87a24970ebe18739.png?r=4ki" width="400" alt="Ariel Onoriaga's Dev Card"/></a>
+<a href="https://app.daily.dev/aonoriaga"><img src="https://api.daily.dev/devcards/v2/dDsB9Ksa0pT0bOa7aaWkO.png?type=default&r=16y" width="356" alt="Ariel Onoriaga's Dev Card"/></a>
