@@ -30,26 +30,49 @@ What we solved:
 ## 💪 Core Expertise
 
 ### Full-Stack Development
-- **Frontend:** Astro, React, Vue.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Python, PHP, Golang
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **APIs:** RESTful design, real-time systems
+- **Frontend:** Astro, React, Vue.js, TypeScript, Tailwind CSS, Quasar
+- **Backend:** Node.js + NestJS, Express, Python, PHP, Golang
+- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB
+- **APIs:** RESTful design, event-driven systems, JWT authentication
+- **Advanced:** Functional programming (RxJS, Preact Signals), reactive systems
+
+### Game Development (Specialist)
+- **Game Engine:** Phaser 4 (2D game engine mastery)
+- **Animation:** Spine professional animation tools
+- **Graphics:** WebGL optimization, canvas performance, high-frame-rate rendering
+- **Gameplay Systems:** Physics engines, collision detection, state management
+- **Languages:** i18n implementation for multi-language games
+
+### Backend Architecture
+- **Enterprise Frameworks:** NestJS with event-driven architecture
+- **Authentication:** JWT, secure session management, authorization patterns
+- **Database Design:** Relational (PostgreSQL) and document (MongoDB) expertise
+- **Real-time Systems:** Event emitters, stream processing, async patterns
 
 ### DevOps & Infrastructure
-- **Deployment:** GitHub Actions, CI/CD pipelines, zero-downtime deploys
-- **Servers:** Nginx (reverse proxy, load balancing), systemd
-- **Containerization:** Docker (phasing out for lightweight alternatives)
-- **Linux:** Arch Linux, deployment automation, security hardening
+- **Deployment:** GitHub Actions CI/CD pipelines, zero-downtime deploys
+- **Cloud:** AWS services, deployment automation
+- **Servers:** Nginx (reverse proxy, load balancing), systemd process management
+- **Containerization:** Docker, compose orchestration
+- **Linux:** Arch Linux, kernel-level optimizations, security hardening
 
 ### Performance & Optimization
-- **Frontend:** Lighthouse optimization (98/100 targets), bundle analysis
-- **Backend:** System design for scalability, caching strategies
-- **Infrastructure:** Cost reduction through intelligent architecture (proven 90% cost cuts)
+- **Frontend:** Lighthouse optimization (98/100 targets), bundle analysis, asset compression
+- **Backend:** System architecture for scalability, caching strategies, database optimization
+- **Infrastructure:** Cost reduction engineering (proven 90% cost cuts through intelligent design)
+- **Media:** FFmpeg video processing, Sharp image optimization, WebP conversion
+
+### Testing & Quality
+- **End-to-End:** Playwright automation testing
+- **Unit & Integration:** Jest test suites
+- **Code Quality:** ESLint, Prettier, TypeScript strict mode
+- **Schema Validation:** Zod for type-safe data handling
 
 ### Automation & Tooling
-- **Package Managers:** Bun (10x faster npm), pnpm, npm
-- **Build Tools:** Astro, Vite, webpack
-- **Testing:** Jest, integration testing
+- **Package Managers:** Bun (10x faster than npm), pnpm, npm
+- **Build Tools:** Astro, Vite, SWC (Rust-based compiler)
+- **Bundling:** TSUp for library distribution
+- **CLI Tools:** Typescript-first development
 
 ---
 
@@ -57,11 +80,28 @@ What we solved:
 
 **I don't just code — I engineer for ROI.**
 
-- ✅ **Performance-first:** Every project ships with Lighthouse 95+
-- ✅ **Cost-conscious:** Automatically spot waste (see mudanzas case study)
-- ✅ **Deployment-ready:** CI/CD pipelines from day 1, not as afterthought
-- ✅ **Systems thinking:** Understand the full stack (frontend → backend → infra → costs)
-- ✅ **Speed matters:** Bun over npm, static over dynamic, caching by default
+- ✅ **Performance-first:** Every project ships with Lighthouse 95+, optimized bundles, efficient rendering
+- ✅ **Cost-conscious:** Automatically spot waste (see mudanzas case study: 90% cost cut)
+- ✅ **Deployment-ready:** CI/CD pipelines from day 1, zero-downtime deploys, production-hardened
+- ✅ **Systems thinking:** Understand the full stack (frontend → backend → database → infra → costs)
+- ✅ **Speed matters:** Bun over npm, static over dynamic, caching by default, WebGL optimization for games
+- ✅ **Security-aware:** JWT auth, rate limiting, CORS, safe data handling, secrets management
+
+---
+
+## 🏆 Specialist Capabilities
+
+### Game Development Expertise
+Built 5+ game projects using Phaser 4 with professional animation (Spine), physics systems, and multi-language support. Understand game loops, asset pipelines, and performance constraints unique to game engines.
+
+### Reactive & Async Mastery
+Advanced patterns with RxJS, Preact Signals, and functional reactive programming. Can architect complex, event-driven systems that scale.
+
+### Full-Stack Cost Engineering
+Not just "deploy faster" — think in terms of infrastructure ROI. Can reduce costs 90% while improving performance 4.4x through intelligent architecture choices.
+
+### Media Processing Pipeline
+FFmpeg integration, image optimization, WebP conversion, responsive asset delivery. Valuable for video platforms, game asset pipelines, and content-heavy apps.
 
 ---
 
