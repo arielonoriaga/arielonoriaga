@@ -1,41 +1,127 @@
 # Ariel Onoriaga 🚀
+**Full-Stack Developer | Automation Engineer | Building Scalable Systems**
 
-Welcome to my GitHub profile! I'm Ariel Onoriaga, a passionate software developer with 4 years of experience. My expertise lies mainly in frontend development, but I'm also proficient in backend technologies. Here's a quick look at my tech stack:
+I build production systems that move fast and stay cheap. Specializing in full-stack automation, performance optimization, and intelligent infrastructure. Recently reduced a client's hosting footprint by **90% ($2,700/year → $300)** while increasing speed **4.4x**.
 
-## Technologies & Tools
+---
 
-### Frontend 🌐
-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat-square)
-- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff&style=flat-square)
-- ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=fff&style=flat-square)
-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
-- ![Quasar](https://img.shields.io/badge/Quasar-1976D2?logo=quasar&logoColor=fff&style=flat-square)
-- ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=fff&style=flat-square)
+## 🔥 Live Projects & Proof Points
 
-### Backend 🛠️
-- ![Golang](https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=fff&style=flat-square)
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat-square)
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
+### **Mudanzas Margarit** — Complete Migration & 90% Cost Cut
+**[mudanzasmargarit.com](https://mudanzasmargarit.com)** | Astro 5 + Bun + Nginx
 
-### Testing 🧪
-- ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat-square)
+What we solved:
+- Migrated from WordPress (600MB RAM, 3.5s load time) → Static Astro site (30MB RAM, 0.8s load time)
+- Exported 450+ MB of assets, 15 FAQs, service catalog
+- Automated CI/CD with GitHub Actions (zero-downtime deploys)
 
-### Containerization 📦
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square)
+**Metrics:**
+| Metric | Before | After | Gain |
+|--------|--------|-------|------|
+| Load Time | 3.5s | 0.8s | **4.4x faster** |
+| RAM Usage | 600 MB | 30 MB | **20x less** |
+| Annual Cost | $2,700 | $300 | **90% savings** |
+| Lighthouse Score | 52/100 | 98/100 | **+46 points** |
 
-### Game Development 🎮
-- ![Pixi.js](https://img.shields.io/badge/Pixi.js-8DD6F9?logo=pixiv&logoColor=fff&style=flat-square)
-- ![Matter.js](https://img.shields.io/badge/Matter.js-FF6F61?logo=javascript&logoColor=fff&style=flat-square)
+**Tech:** Astro, TypeScript, Bun (package manager), Nginx, Let's Encrypt SSL, GitHub Actions, Tailwind CSS
 
-### Main Language 🔧
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square) (my master language)
+---
 
-I continuously strive to expand my knowledge and improve my skills. I'm passionate about creating efficient, scalable, and maintainable code. Feel free to explore my repositories to see the various projects I've worked on.
+## 💪 Core Expertise
 
-## Contact 📬
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/arielonoriaga/) or reach out via [email](mailto:onoriagaariel@example.com).
+### Full-Stack Development
+- **Frontend:** Astro, React, Vue.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Python, PHP, Golang
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **APIs:** RESTful design, real-time systems
 
-Looking forward to collaborating and building amazing projects together! ✨
+### DevOps & Infrastructure
+- **Deployment:** GitHub Actions, CI/CD pipelines, zero-downtime deploys
+- **Servers:** Nginx (reverse proxy, load balancing), systemd
+- **Containerization:** Docker (phasing out for lightweight alternatives)
+- **Linux:** Arch Linux, deployment automation, security hardening
+
+### Performance & Optimization
+- **Frontend:** Lighthouse optimization (98/100 targets), bundle analysis
+- **Backend:** System design for scalability, caching strategies
+- **Infrastructure:** Cost reduction through intelligent architecture (proven 90% cost cuts)
+
+### Automation & Tooling
+- **Package Managers:** Bun (10x faster npm), pnpm, npm
+- **Build Tools:** Astro, Vite, webpack
+- **Testing:** Jest, integration testing
+
+---
+
+## 📦 Current Architecture
+
+**Multi-project VPS infrastructure** running on Hostinger (217.196.62.243):
+
+```
+Nginx (ports 80/443) — Single reverse proxy
+├── mudanzasmargarit.com → localhost:3000 (Astro static)
+├── ez-stock → localhost:3001 (Node backend)
+├── api → localhost:3002 (Scalable API layer)
+└── future projects → localhost:3003+
+```
+
+Each project:
+- Independent GitHub Actions pipeline
+- Own systemd service
+- Zero-downtime deploys
+
+**GitHub Repos:**
+- [mudanzas-astro-site](https://github.com/arielonoriaga/mudanzas-astro-site) — Live production site
+- [vps-config](https://github.com/arielonoriaga/vps-config) — Master Nginx config + deployment scripts
+
+---
+
+## 🎯 My Edge
+
+**I don't just code — I engineer for ROI.**
+
+- ✅ **Performance-first:** Every project ships with Lighthouse 95+
+- ✅ **Cost-conscious:** Automatically spot waste (see mudanzas case study)
+- ✅ **Deployment-ready:** CI/CD pipelines from day 1, not as afterthought
+- ✅ **Systems thinking:** Understand the full stack (frontend → backend → infra → costs)
+- ✅ **Speed matters:** Bun over npm, static over dynamic, caching by default
+
+---
+
+## 🛠️ Tech Stack (Current)
+
+**Languages:** TypeScript (primary), JavaScript, Python, Golang, PHP
+
+**Frontend:** Astro, React, Vue.js, Tailwind CSS, Quasar, Vuetify
+
+**Backend:** Node.js, Express, Python, PHP, Golang
+
+**DevOps:** GitHub Actions, Nginx, Docker, systemd, Linux (Arch)
+
+**Tools:** Bun (package manager), Git, PostgreSQL, SQLite, Jest
+
+---
+
+## 📈 Philosophy
+
+> Every manual process is a profit leak. Every second of load time is a user lost.
+
+I build systems that:
+1. **Solve real problems** (not resume padding)
+2. **Ship fast** (automation first)
+3. **Scale cheap** (architecture matters)
+4. **Stay maintainable** (you'll thank me in 6 months)
+
+---
+
+## 💬 Let's Connect
+
+- **Portfolio:** [mudanzasmargarit.com](https://mudanzasmargarit.com)
+- **LinkedIn:** [arielonoriaga](https://www.linkedin.com/in/arielonoriaga/)
+- **Email:** onoriagaariel@gmail.com
+- **GitHub:** [arielonoriaga](https://github.com/arielonoriaga)
+
+Looking to collaborate on automation, performance optimization, or full-stack projects? Let's talk.
 
 ---
 
