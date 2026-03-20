@@ -53,29 +53,6 @@ What we solved:
 
 ---
 
-## 📦 Current Architecture
-
-**Multi-project VPS infrastructure** running on Hostinger (217.196.62.243):
-
-```
-Nginx (ports 80/443) — Single reverse proxy
-├── mudanzasmargarit.com → localhost:3000 (Astro static)
-├── ez-stock → localhost:3001 (Node backend)
-├── api → localhost:3002 (Scalable API layer)
-└── future projects → localhost:3003+
-```
-
-Each project:
-- Independent GitHub Actions pipeline
-- Own systemd service
-- Zero-downtime deploys
-
-**GitHub Repos:**
-- [mudanzas-astro-site](https://github.com/arielonoriaga/mudanzas-astro-site) — Live production site
-- [vps-config](https://github.com/arielonoriaga/vps-config) — Master Nginx config + deployment scripts
-
----
-
 ## 🎯 My Edge
 
 **I don't just code — I engineer for ROI.**
