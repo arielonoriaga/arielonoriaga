@@ -7,18 +7,18 @@ I build production systems that move fast and stay lean. From static sites that 
 
 ## 🔥 Live Projects
 
-### **Huggian** — SaaS Management Platform
-**[huggian.com](https://huggian.com)** | Bun + Turbo monorepo + Hono + SolidJS + Astro + PostgreSQL
+### **Huggian** — My Software Enterprise
+**[huggian.com](https://huggian.com)**
 
-A full SaaS backend + landing + admin dashboard running on a single VPS with Docker Compose.
+Huggian is the company I'm building — a software enterprise focused on automation, SaaS infrastructure, and developer tooling. This is the technical backbone behind every product I ship.
 
-- **Core API** (`api.huggian.com`) — Hono DDD architecture with product registry, subscription billing (Stripe + MercadoPago), customer management, webhook event delivery
-- **Admin Dashboard** (`admin.huggian.com`) — SolidJS admin panel
-- **Landing** (`huggian.com`) — Astro 5 + custom WebGL GLSL shaders (aurora, particles, orbs, trails)
-- **Deploy notifications** — GitHub Actions → Telegram bot on every deploy
-- **Infrastructure** — Wildcard SSL, Nginx reverse proxy, binary Docker images via `bun build --compile`
+- **Core API** (`api.huggian.com`) — Multi-tenant SaaS engine: product registry, subscription billing (Stripe + MercadoPago), customer management, webhook event delivery. DDD architecture with clean bounded contexts.
+- **Admin Dashboard** (`admin.huggian.com`) — Internal SolidJS control panel
+- **Landing** (`huggian.com`) — Astro 5 with custom GLSL shaders (aurora, particles, orbs, trails) rendered via WebGL
+- **Products hosted:** Mudanzas Margarit, Ez-Stock, and more to come
+- **Deploy pipeline** — GitHub Actions matrix builds → binary Docker images → VPS via SSH → Telegram notification on every deploy
 
-**Tech:** Bun, Turbo, Hono, SolidJS, Astro, Drizzle ORM, PostgreSQL, Docker, GitHub Actions, Nginx
+**Tech:** Bun, Turbo monorepo, Hono (API), SolidJS (admin), Astro (landing), Drizzle ORM, PostgreSQL, Docker Compose, Nginx (wildcard SSL + subdomain routing), GitHub Actions
 
 ---
 
@@ -38,10 +38,19 @@ Migrated a client from WordPress (600MB RAM, 3.5s load) to a static Astro site (
 
 ---
 
-### **Ez-Stock** — Inventory SaaS (Validation Phase)
-**[ez-stock.huggian.com](https://ez-stock.huggian.com)** | SolidJS + Vite + Tailwind
+### **Ez-Stock** — Inventory & Invoicing SaaS (Validation Phase)
+**[ez-stock.huggian.com](https://ez-stock.huggian.com)**
 
-Inventory management for kioscos, carnicerias, and small businesses in Argentina. Landing page live, validating with user interviews before building the full app.
+Multi-point inventory management with AFIP/ARCA electronic invoicing for small businesses in Argentina (kioscos, carnicerias, comercios). Landing live, validating with user interviews before scaling the full app.
+
+- **Backend** — Rust (Axum) REST API, system-of-record, DDD with bounded contexts, auto-migrating PostgreSQL
+- **Frontend** — SolidJS + Vite + Tailwind v4, component testing with Vitest + Playwright E2E
+- **AFIP integration** — Go microservice handling Argentine electronic invoicing
+- **Landing** — Astro 4 + Tailwind
+- **Infrastructure** — Docker Compose (dev + prod configs), Taskfile automation, hot-reload dev environment
+- **Practices** — DDD, clean architecture, E2E + unit testing, cargo clippy/fmt enforced in CI
+
+**Tech:** Rust (Axum), Go, SolidJS, Astro, TypeScript, Bun, PostgreSQL, Docker, Vitest, Playwright
 
 ---
 
