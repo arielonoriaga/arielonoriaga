@@ -115,4 +115,4 @@ Multi-point inventory management with AFIP/ARCA electronic invoicing for small b
 
 ---
 
-<a href="https://app.daily.dev/aonoriaga"><img src="https://api.daily.dev/devcards/v2/dDsB9Ksa0pT0bOa7aaWkO.png?type=default&r=16y" width="356" alt="Ariel Onoriaga's Dev Card"/></a>
+<a href="https://app.daily.dev/aonoriaga"><img src="https://api.daily.dev/devcards/v2/dDsB9Ksa0pT0bOa7aaWkO.png?type=default&r=hcg" width="356" alt="Ariel Onoriaga's Dev Card"/></a>
