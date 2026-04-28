@@ -1,7 +1,7 @@
 # Ariel Onoriaga
-**Full-Stack Systems Engineer | Rust · Go · TypeScript | Ships Production, Not Demos**
+**Senior Full-Stack & Systems Engineer | Rust · Go · TypeScript**
 
-I build complete systems — infra to app to compliance. GLI-certified RNG engines, AFIP invoicing, multi-tenant SaaS, and Argentine retail platforms. Every project lands with CI/CD, Docker, real metrics, and zero hand-holding.
+I build complete systems — infra to app to compliance. Multi-tenant SaaS, GLI-compliant gaming platforms, fiscal e-invoicing (AFIP/ARCA), and performance-critical APIs. Every project lands with CI/CD, Docker, and measurable results.
 
 ---
 
@@ -41,7 +41,7 @@ Migrated a client from WordPress (600MB RAM, 3.5s load) to a static Astro site (
 ### **Ez-Stock** — Inventory, POS & Invoicing SaaS
 **[ez-stock.huggian.com](https://ez-stock.huggian.com)**
 
-Multi-sell-point stock management with AFIP/ARCA electronic invoicing for Argentine retail (kioscos, carnicerias, comercios). Landing live, validating before scaling.
+Multi-sell-point stock management with AFIP/ARCA electronic invoicing (Argentine tax authority compliance) for retail businesses. Full POS, storefront, and reporting suite.
 
 - **Backend** — Rust (Axum) REST API, 35k+ LOC, 33 PostgreSQL migrations, DDD with bounded contexts, hexagonal architecture (ports & adapters). Financial-grade precision via `rust_decimal`.
 - **Frontend** — SolidJS + Vite + Tailwind v4, WCAG AA accessibility audit, Vitest unit tests + Playwright E2E.
@@ -89,7 +89,7 @@ The operational backbone running every hosted product. Versioned, CI-validated, 
 
 ### **Game Manager AWS** — Serverless Gaming Platform
 
-Multi-operator B2B gaming platform. GLI-compliant, multi-environment, production-hardened.
+Multi-operator B2B gaming platform. GLI-compliant (regulated gaming certification), multi-environment, production-hardened.
 
 - Backend services in Go, player-facing and admin frontends in Vue.js 3
 - Real-time gaming via WebSocket, lottery/draw systems, third-party game provider integrations
@@ -157,7 +157,7 @@ My full development environment: Neovim, terminal, shell, and tooling config —
 
 ## 🛠️ Current Stack
 
-**Languages:** Rust (systems, APIs), Go (Lambda, microservices), TypeScript (primary web), Python (data/RNG), Golang, PHP
+**Languages:** Rust (systems, APIs), Go (microservices, Lambda), TypeScript (primary web), Python (data/tooling)
 
 **Frontend:** Astro, SolidJS, React, Vue.js, Tailwind CSS
 
