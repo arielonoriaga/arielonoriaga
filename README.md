@@ -8,7 +8,7 @@ I build complete systems — infra to app to compliance. GLI-certified RNG engin
 ## 🔥 Live Projects
 
 ### **Huggian** — My Software Enterprise
-**[huggian.com](https://huggian.com)**
+**[huggian.com](https://landing.huggian.com/)**
 
 The company behind every product I ship. Multi-tenant SaaS infrastructure powering a growing portfolio of B2B tools.
 
@@ -56,6 +56,8 @@ Multi-sell-point stock management with AFIP/ARCA electronic invoicing for Argent
 ---
 
 ### **Ez-Catalog** — Argentine Product Catalog API
+**[ez-catalog.huggian.com](https://ez-catalog.huggian.com/)**
+
 Product catalog REST API for Argentine food/consumer goods — seeded from Open Food Facts Argentina with brand deduplication, family resolution, and text normalization.
 
 - **Backend** — Rust (Axum), async-first Tokio, SQLx compile-time query verification, Redis caching (deadpool, 1h TTL).
