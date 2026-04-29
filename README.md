@@ -8,14 +8,13 @@ I build complete systems — infra to app to compliance. Multi-tenant SaaS, GLI-
 ## 🔥 Live Projects
 
 ### **Huggian** — My Software Enterprise
-**[huggian.com](https://landing.huggian.com/)**
+**[landing.huggian.com](https://landing.huggian.com/)**
 
 The company behind every product I ship. Multi-tenant SaaS infrastructure powering a growing portfolio of B2B tools.
 
 - **Core API** (`api.huggian.com`) — Multi-tenant engine: product registry, subscription billing (Stripe + MercadoPago), customer management, webhook event delivery. DDD + bounded contexts.
-- **Admin Dashboard** (`admin.huggian.com`) — SolidJS control panel with real-time prospect monitoring via SSE event bus, multi-LLM pipeline status (Claude, GPT-4, Gemini, Groq), and Telegram alert config.
 - **Prospect Bot** — Multi-model AI pipeline (Anthropic, OpenAI, Google, Groq) with live event feed, source stats, and Telegram notifications.
-- **Landing** (`huggian.com`) — Astro 5 with custom GLSL shaders (aurora, particles, orbs, trails) via WebGL.
+- **Landing** (`landing.huggian.com`) — Astro 5 with custom GLSL shaders (aurora, particles, orbs, trails) via WebGL.
 - **Deploy pipeline** — Turbo monorepo → tag-triggered GitHub Actions → GHCR binary images → VPS via SSH → Telegram notification. Playwright E2E with 3-shard parallelization + path-based change detection.
 
 **Tech:** Bun, Turbo monorepo, Hono (API), SolidJS (admin), Astro (landing), Drizzle ORM, PostgreSQL, Docker Compose, Nginx, GitHub Actions, Anthropic SDK, OpenAI SDK
@@ -186,7 +185,7 @@ My full development environment: Neovim, terminal, shell, and tooling config —
 
 ## 💬 Let's Connect
 
-- **Company:** [huggian.com](https://huggian.com)
+- **Company:** [huggian.com](https://landing.huggian.com)
 - **LinkedIn:** [arielonoriaga](https://www.linkedin.com/in/arielonoriaga/)
 - **Email:** onoriagaariel@gmail.com
 
