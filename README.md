@@ -115,6 +115,9 @@ Scenario generation and mathematical validation toolchain for regulated gaming p
 
 ## 🛠️ Open Source
 
+### **[claude-irondev](https://github.com/arielonoriaga/claude-irondev)**
+Claude Code skill + knowledge base for production-grade software engineering — coding standards, architecture patterns, and tooling conventions. Markdown.
+
 ### **[claude-statusline-bar](https://github.com/arielonoriaga/claude-statusline-bar)**
 Polished, information-dense status line for Claude Code — groups, color ramps, rate-limit countdowns, git status. Shell.
 
