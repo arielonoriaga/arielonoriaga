@@ -1,9 +1,27 @@
 <div align="center">
 
 # Ariel Onoriaga
-**Senior Full-Stack & Systems Engineer · Rust · Go · TypeScript**
 
-I build complete systems — infra to app to compliance. Multi-tenant SaaS, GLI-compliant gaming platforms, fiscal e-invoicing (AFIP/ARCA), and performance-critical APIs. Every project lands with CI/CD, Docker, and measurable results.
+### Full-Stack & Systems Engineer
+
+**Complete systems — schema to CDN, compliance to deployment.**
+Multi-tenant SaaS · GLI-certified gaming · Fiscal e-invoicing · Performance APIs
+
+<br>
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<br>
+
+| 💸 90% infra cost reduction | ⚡ Lighthouse 98/100 | 🎰 GLI-certified gaming | 🦀 35k+ LOC Rust |
+|:---:|:---:|:---:|:---:|
 
 </div>
 
@@ -28,10 +46,10 @@ The company behind every product I ship. Multi-tenant SaaS infrastructure poweri
 ### Mudanzas Margarit — 90% Cost Cut Migration
 **[mudanzasmargarit.com](https://mudanzasmargarit.com)**
 
-Migrated a client from WordPress (600MB RAM, 3.5s load) to a static Astro site.
+Migrated a client from WordPress (600MB RAM, 3.5s load) to a static Astro site. Same content, a fraction of the cost.
 
 | Metric | Before | After | Gain |
-|--------|--------|-------|------|
+|:-------|:------:|:-----:|-----:|
 | Load Time | 3.5s | 0.8s | **4.4× faster** |
 | RAM Usage | 600 MB | 30 MB | **20× less** |
 | Annual Cost | $2,700 | $300 | **90% savings** |
@@ -44,9 +62,9 @@ Migrated a client from WordPress (600MB RAM, 3.5s load) to a static Astro site.
 ### Ez-Stock — Inventory, POS & Invoicing SaaS
 **[ez-stock.huggian.com](https://ez-stock.huggian.com)**
 
-Multi-sell-point stock management with AFIP/ARCA electronic invoicing for retail businesses. Full POS, storefront, and reporting suite.
+Multi-sell-point stock management with AFIP/ARCA electronic invoicing for Argentine retail businesses. Full POS, storefront, and reporting suite.
 
-- **Backend** — Rust (Axum) REST API, 35k+ LOC, 33 PostgreSQL migrations, DDD + hexagonal architecture (ports & adapters). Financial-grade precision via `rust_decimal`.
+- **Backend** — Rust (Axum) REST API, 35k+ LOC, 33 PostgreSQL migrations, DDD + hexagonal architecture. Financial-grade precision via `rust_decimal`.
 - **Frontend** — SolidJS + Vite + Tailwind v4, WCAG AA audited, Vitest unit tests + Playwright E2E.
 - **Storefront** — Public product listing, cart, WhatsApp CTAs, order management dashboard, store theme config.
 - **POS** — Hierarchical pricing (Global → Sell Point → Provider → Product → Customer), combo recipes, customer ledger, cash flow reporting, settlement generation.
@@ -172,12 +190,12 @@ Full development environment: Neovim, terminal, shell, and tooling config — tu
 
 ## 💬 Let's Connect
 
-- **Company:** [huggian.com](https://landing.huggian.com)
-- **LinkedIn:** [arielonoriaga](https://www.linkedin.com/in/arielonoriaga/)
-- **Email:** onoriagaariel@gmail.com
-
----
-
 <div align="center">
+
+[**huggian.com**](https://landing.huggian.com) · [**LinkedIn**](https://www.linkedin.com/in/arielonoriaga/) · **onoriagaariel@gmail.com**
+
+<br>
+
 <a href="https://app.daily.dev/aonoriaga"><img src="https://api.daily.dev/devcards/v2/dDsB9Ksa0pT0bOa7aaWkO.png?type=default&r=hcg" width="356" alt="Ariel Onoriaga's Dev Card"/></a>
+
 </div>
