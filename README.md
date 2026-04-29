@@ -36,6 +36,8 @@ Multi-tenant SaaS · GLI-certified gaming · Fiscal e-invoicing · Performance A
 </tr>
 </table>
 
+<img src="https://github-readme-streak-stats.demolab.com?user=arielonoriaga&hide_border=true&background=00000000&stroke=58A6FF&ring=58A6FF&fire=FF5D01&currStreakLabel=58A6FF&sideLabels=888888&dates=888888&currStreakNum=58A6FF&sideNums=888888" alt="GitHub Streak" />
+
 ![Profile Views](https://komarev.com/ghpvc/?username=arielonoriaga&color=58A6FF&style=flat-square&label=profile+views)
 
 </div>
@@ -148,14 +150,29 @@ Scenario generation and mathematical validation toolchain for regulated gaming p
 
 ## 🛠️ Open Source
 
-### [claude-irondev](https://github.com/arielonoriaga/claude-irondev)
-Claude Code skill + knowledge base for production-grade software engineering — coding standards, architecture patterns, and tooling conventions.
-
-### [claude-statusline-bar](https://github.com/arielonoriaga/claude-statusline-bar)
-Polished, information-dense status line for Claude Code — groups, color ramps, rate-limit countdowns, git status.
-
-### [.config](https://github.com/arielonoriaga/.config)
-Full development environment: Neovim, terminal, shell, and tooling config — tuned for Arch Linux + Bun + Rust workflows.
+<div align="center">
+<table>
+<tr>
+<td>
+<a href="https://github.com/arielonoriaga/claude-irondev">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=arielonoriaga&repo=claude-irondev&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=888888&icon_color=58A6FF" />
+</a>
+</td>
+<td>
+<a href="https://github.com/arielonoriaga/claude-statusline-bar">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=arielonoriaga&repo=claude-statusline-bar&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=888888&icon_color=58A6FF" />
+</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<a href="https://github.com/arielonoriaga/.config">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=arielonoriaga&repo=.config&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=888888&icon_color=58A6FF" />
+</a>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
