@@ -2,7 +2,7 @@
 
 # Ariel Onoriaga
 
-### Full-Stack & Systems Engineer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=From+schema+migrations+to+GLSL+shaders.;GLI-certified+%C2%B7+AFIP-compliant+%C2%B7+Lighthouse+98.;90%25+cost+cut.+No+feature+compromises.;Rust+APIs.+Go+microservices.+WebGL+shaders." alt="Typing SVG" />
 
 **Complete systems — schema to CDN, compliance to deployment.**
 Multi-tenant SaaS · GLI-certified gaming · Fiscal e-invoicing · Performance APIs
@@ -22,6 +22,21 @@ Multi-tenant SaaS · GLI-certified gaming · Fiscal e-invoicing · Performance A
 
 | 💸 90% infra cost reduction | ⚡ Lighthouse 98/100 | 🎰 GLI-certified gaming | 🦀 35k+ LOC Rust |
 |:---:|:---:|:---:|:---:|
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=arielonoriaga&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=888888&rank_icon=github&hide=stars&custom_title=GitHub+Stats" />
+</td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielonoriaga&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=888888&langs_count=6&custom_title=Top+Languages" />
+</td>
+</tr>
+</table>
+
+![Profile Views](https://komarev.com/ghpvc/?username=arielonoriaga&color=58A6FF&style=flat-square&label=profile+views)
 
 </div>
 
@@ -144,7 +159,10 @@ Full development environment: Neovim, terminal, shell, and tooling config — tu
 
 ---
 
-## 💪 Core Skills
+<details>
+<summary>💪 Core Skills</summary>
+
+<br>
 
 **Full-Stack**
 - Frontend: Astro, SolidJS, React, Vue.js, TypeScript, Tailwind CSS, WebGL/GLSL shaders
@@ -173,6 +191,8 @@ Full development environment: Neovim, terminal, shell, and tooling config — tu
 - Cost reduction engineering (proven 90% infra cuts via smart architecture)
 - Bundle analysis, static-first, ARM64 optimization
 - FFmpeg video processing, Sharp image optimization
+
+</details>
 
 ---
 
