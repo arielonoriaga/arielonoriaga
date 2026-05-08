@@ -2,7 +2,7 @@
 
 # Ariel Onoriaga
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=From+schema+migrations+to+GLSL+shaders.;GLI-certified+%C2%B7+AFIP-compliant+%C2%B7+Lighthouse+98.;90%25+cost+cut.+No+feature+compromises.;Rust+APIs.+Go+microservices.+WebGL+shaders." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=From+schema+migrations+to+GLSL+shaders.;GLI-certified+%C2%B7+AFIP-compliant+%C2%B7+Lighthouse+98.;90%25+infra+cost+cut.+Zero+feature+compromises.;Rust+APIs.+Go+microservices.+WebGL+shaders." alt="Typing SVG" />
 
 **Complete systems — schema to CDN, compliance to deployment.**
 Multi-tenant SaaS · GLI-certified gaming · Fiscal e-invoicing · Performance APIs
@@ -25,6 +25,10 @@ Multi-tenant SaaS · GLI-certified gaming · Fiscal e-invoicing · Performance A
 
 <br>
 
+[**Live Projects**](#-live-projects) · [**Client Work**](#-client-work--wizards-gaming-platform) · [**Open Source**](#%EF%B8%8F-open-source) · [**Skills**](#-core-skills) · [**Connect**](#-lets-connect)
+
+<br>
+
 <table>
 <tr>
 <td align="center">
@@ -38,9 +42,17 @@ Multi-tenant SaaS · GLI-certified gaming · Fiscal e-invoicing · Performance A
 
 <img src="https://github-readme-streak-stats.demolab.com?user=arielonoriaga&hide_border=true&background=00000000&stroke=58A6FF&ring=58A6FF&fire=FF5D01&currStreakLabel=58A6FF&sideLabels=888888&dates=888888&currStreakNum=58A6FF&sideNums=888888" alt="GitHub Streak" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arielonoriaga&theme=react-dark&bg_color=00000000&hide_border=true&color=58A6FF&line=58A6FF&point=FF5D01&area=true&area_color=58A6FF" alt="Activity Graph" />
+
 ![Profile Views](https://komarev.com/ghpvc/?username=arielonoriaga&color=58A6FF&style=flat-square&label=profile+views)
 
 </div>
+
+---
+
+## 🚧 Currently Building
+
+**Huggian SaaS portfolio** — multi-tenant infra, AI prospect bot, billing engine. Shipping product on top of my own platform, not a hosted starter kit.
 
 ---
 
@@ -150,8 +162,22 @@ Scenario generation and mathematical validation toolchain for regulated gaming p
 
 ## 🛠️ Open Source
 
+Tools I use daily, shipped publicly. Lazy-* utilities are minimal CLIs that replace bloated alternatives.
+
 <div align="center">
 <table>
+<tr>
+<td>
+<a href="https://github.com/arielonoriaga/lazyfetch">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=arielonoriaga&repo=lazyfetch&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=888888&icon_color=58A6FF" />
+</a>
+</td>
+<td>
+<a href="https://github.com/arielonoriaga/lazywifi">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=arielonoriaga&repo=lazywifi&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=888888&icon_color=58A6FF" />
+</a>
+</td>
+</tr>
 <tr>
 <td>
 <a href="https://github.com/arielonoriaga/claude-irondev">
@@ -176,8 +202,10 @@ Scenario generation and mathematical validation toolchain for regulated gaming p
 
 ---
 
+## 💪 Core Skills
+
 <details>
-<summary>💪 Core Skills</summary>
+<summary><b>Expand the full stack</b></summary>
 
 <br>
 
@@ -217,11 +245,12 @@ Scenario generation and mathematical validation toolchain for regulated gaming p
 
 > Every manual process is a profit leak. Every second of load time is a user lost. Every dollar of cloud spend needs a justification.
 
-1. **Ship real things** — not toy projects
-2. **Automate early** — CI/CD from commit one
-3. **Scale cheap** — architecture beats hardware (proven: $2,700 → $300/year)
-4. **Binary over bloat** — compile to a single file, drop the runtime
-5. **Compliance by design** — GLI, AFIP, WCAG AA — built in, not bolted on
+- **Ship real things.** Toy projects don't pay rent — production systems do.
+- **Automate from commit one.** If you'll run it twice, script it.
+- **Architecture beats hardware.** Proven: $2,700/yr → $300/yr without losing a feature.
+- **Binary over bloat.** Compile to a single file. Drop the runtime. Drop the surprise.
+- **Compliance by design.** GLI, AFIP, WCAG AA — built in, not bolted on.
+- **Root cause or nothing.** Five leaf patches < one source-of-truth fix.
 
 ---
 
@@ -229,9 +258,11 @@ Scenario generation and mathematical validation toolchain for regulated gaming p
 
 <div align="center">
 
-[**huggian.com**](https://landing.huggian.com) · [**LinkedIn**](https://www.linkedin.com/in/arielonoriaga/) · **onoriagaariel@gmail.com**
+<a href="https://landing.huggian.com"><img src="https://img.shields.io/badge/huggian.com-FF5D01?style=for-the-badge&logo=safari&logoColor=white" alt="Huggian" /></a>
+<a href="https://www.linkedin.com/in/arielonoriaga/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:onoriagaariel@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<br>
+<br><br>
 
 <a href="https://app.daily.dev/aonoriaga"><img src="https://api.daily.dev/devcards/v2/dDsB9Ksa0pT0bOa7aaWkO.png?type=default&r=hcg" width="356" alt="Ariel Onoriaga's Dev Card"/></a>
 
