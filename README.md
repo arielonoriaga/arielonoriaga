@@ -162,42 +162,20 @@ Scenario generation and mathematical validation toolchain for regulated gaming p
 
 ## 🛠️ Open Source
 
-Tools I use daily, shipped publicly. Lazy-* utilities are minimal CLIs that replace bloated alternatives.
+Tools I use daily, shipped publicly. The `lazy-*` line is minimal CLIs that replace bloated alternatives.
+
+| Repo | What it does | Stack |
+|:-----|:-------------|:------|
+| **[lazyfetch](https://github.com/arielonoriaga/lazyfetch)** | Tiny, fast neofetch alternative. System info without the bloat. | `Shell` |
+| **[lazywifi](https://github.com/arielonoriaga/lazywifi)** | Wi-Fi management CLI — connect, scan, manage networks fast. | `Shell` |
+| **[claude-irondev](https://github.com/arielonoriaga/claude-irondev)** | Adversarial code-review subagent for Claude Code. Refuses to rubber-stamp. | `Markdown` `Claude Code` |
+| **[claude-statusline-bar](https://github.com/arielonoriaga/claude-statusline-bar)** | Information-dense statusline for Claude Code — groups, color ramps, rate-limit countdowns, git status. | `Shell` |
+| **[.config](https://github.com/arielonoriaga/.config)** | Full dotfiles: Neovim, Hyprland, Kitty, Zsh, Tmux. Reproducible Linux setup. | `Lua` `Shell` |
 
 <div align="center">
-<table>
-<tr>
-<td>
-<a href="https://github.com/arielonoriaga/lazyfetch">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=arielonoriaga&repo=lazyfetch&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=888888&icon_color=58A6FF" />
-</a>
-</td>
-<td>
-<a href="https://github.com/arielonoriaga/lazywifi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=arielonoriaga&repo=lazywifi&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=888888&icon_color=58A6FF" />
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/arielonoriaga/claude-irondev">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=arielonoriaga&repo=claude-irondev&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=888888&icon_color=58A6FF" />
-</a>
-</td>
-<td>
-<a href="https://github.com/arielonoriaga/claude-statusline-bar">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=arielonoriaga&repo=claude-statusline-bar&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=888888&icon_color=58A6FF" />
-</a>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<a href="https://github.com/arielonoriaga/.config">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=arielonoriaga&repo=.config&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=888888&icon_color=58A6FF" />
-</a>
-</td>
-</tr>
-</table>
+
+<a href="https://github.com/arielonoriaga?tab=repositories"><img src="https://img.shields.io/badge/See_all_repos-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="All repos" /></a>
+
 </div>
 
 ---
