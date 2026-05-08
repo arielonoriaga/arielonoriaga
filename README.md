@@ -29,22 +29,9 @@ Multi-tenant SaaS · GLI-certified gaming · Fiscal e-invoicing · Performance A
 
 <br>
 
-<table>
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arielonoriaga&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=888888&rank_icon=github&hide=stars&custom_title=GitHub+Stats" />
-</td>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielonoriaga&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=888888&langs_count=6&custom_title=Top+Languages" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.demolab.com?user=arielonoriaga&hide_border=true&background=00000000&stroke=58A6FF&ring=58A6FF&fire=FF5D01&currStreakLabel=58A6FF&sideLabels=888888&dates=888888&currStreakNum=58A6FF&sideNums=888888" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arielonoriaga&theme=react-dark&bg_color=00000000&hide_border=true&color=58A6FF&line=58A6FF&point=FF5D01&area=true&area_color=58A6FF" alt="Activity Graph" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=arielonoriaga&color=58A6FF&style=flat-square&label=profile+views)
+[![Followers](https://img.shields.io/github/followers/arielonoriaga?style=for-the-badge&logo=github&logoColor=white&color=58A6FF&labelColor=0D1117&label=followers)](https://github.com/arielonoriaga?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=arielonoriaga&color=58A6FF&style=for-the-badge&label=profile+views&base=1500)](https://github.com/arielonoriaga)
+[![Open to Work](https://img.shields.io/badge/open_to_work-yes-22C55E?style=for-the-badge&labelColor=0D1117)](mailto:onoriagaariel@gmail.com)
 
 </div>
 
