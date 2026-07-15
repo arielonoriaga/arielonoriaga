@@ -343,6 +343,8 @@ Phaser 4 (5+ shipped) · GLI RNG · PAR sheets · Monte Carlo · RTP · Spine ·
 <a href="mailto:onoriagaariel@gmail.com"><img src="https://img.shields.io/badge/Email_a_3--line_brief-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/arielonoriaga/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://landing.huggian.com"><img src="https://img.shields.io/badge/huggian.com-FF5D01?style=for-the-badge&logo=safari&logoColor=white" alt="Huggian" /></a>
+<a href="https://ez-stock.huggian.com"><img src="https://img.shields.io/badge/ez--stock.huggian.com-E8622C?style=for-the-badge&logo=safari&logoColor=white" alt="Ez-Stock" /></a>
+<a href="https://ez-catalog.huggian.com"><img src="https://img.shields.io/badge/ez--catalog.huggian.com-14B8A6?style=for-the-badge&logo=safari&logoColor=white" alt="Ez-Catalog" /></a>
 
 <br><br>
 
