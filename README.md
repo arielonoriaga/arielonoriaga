@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://landing.huggian.com">
+<a href="https://arielonoriaga.huggian.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=720&height=50&lines=Ariel+Onoriaga" alt="Ariel Onoriaga" />
 </a>
 
@@ -43,6 +43,7 @@
 <br>
 
 [![Open to Work](https://img.shields.io/badge/open_to_work-yes-22C55E?style=for-the-badge&labelColor=0D1117)](mailto:onoriagaariel@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-arielonoriaga.huggian.com-A8430F?style=for-the-badge&labelColor=0D1117)](https://arielonoriaga.huggian.com)
 [![Email](https://img.shields.io/badge/email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:onoriagaariel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/arielonoriaga/)
 [![Followers](https://img.shields.io/github/followers/arielonoriaga?style=for-the-badge&logo=github&logoColor=white&color=58A6FF&labelColor=0D1117&label=followers)](https://github.com/arielonoriaga?tab=followers)
@@ -344,6 +345,7 @@ Phaser 4 (5+ shipped) · GLI RNG · PAR sheets · Monte Carlo · RTP · Spine ·
 ## 💬 Let's talk
 
 <a href="mailto:onoriagaariel@gmail.com"><img src="https://img.shields.io/badge/Email_a_3--line_brief-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://arielonoriaga.huggian.com"><img src="https://img.shields.io/badge/Portfolio-A8430F?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/arielonoriaga/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://landing.huggian.com"><img src="https://img.shields.io/badge/huggian.com-FF5D01?style=for-the-badge&logo=safari&logoColor=white" alt="Huggian" /></a>
 <a href="https://ez-stock.huggian.com"><img src="https://img.shields.io/badge/ez--stock.huggian.com-E8622C?style=for-the-badge&logo=safari&logoColor=white" alt="Ez-Stock" /></a>
