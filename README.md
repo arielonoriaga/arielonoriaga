@@ -105,7 +105,7 @@ I built the full stack: backend, POS, storefront, desktop app, and the Go micros
 <td valign="top" width="50%">
 
 **Backend & data**
-- Rust (Axum), 35k+ LOC, 33 PostgreSQL migrations
+- Rust (Axum), ~40 bounded contexts, 440+ PostgreSQL migrations
 - DDD + hexagonal architecture
 - `rust_decimal` for money — no float drift
 - AFIP fiscal e-invoicing via Go microservice
@@ -283,7 +283,11 @@ Scenario generation + Monte Carlo simulation toolchain for regulated gaming math
 |:-----|:-------------|:------|
 | **[claude-irondev](https://github.com/arielonoriaga/claude-irondev)** | Adversarial code-review subagent for Claude Code. Refuses to rubber-stamp. | `Claude Code` |
 | **[claude-statusline-bar](https://github.com/arielonoriaga/claude-statusline-bar)** | Information-dense statusline — groups, color ramps, rate-limit countdowns, git status. | `Shell` |
-| **[lazyfetch](https://github.com/arielonoriaga/lazyfetch)** · **[lazywifi](https://github.com/arielonoriaga/lazywifi)** · **[.config](https://github.com/arielonoriaga/.config)** | Tiny CLIs + dotfiles for a fast Linux setup. | `Shell` `Lua` |
+| **[lazyfetch](https://github.com/arielonoriaga/lazyfetch)** | Postman in your terminal. Vim keys, YAML collections, Postman import. Published on [crates.io](https://crates.io/crates/lazyfetch) as a 7-crate hexagonal workspace with an IO-free core. | `Rust` `ratatui` `tokio` |
+| **[entropy-hunter](https://github.com/arielonoriaga/entropy-hunter)** | Deterministic code-health analyzer for Rust and TypeScript: complexity, coupling, churn, duplication, with a regression gate for CI. | `TypeScript` `Bun` |
+| **[claude-harness](https://github.com/arielonoriaga/claude-harness)** | Safety and self-improvement harness for AI coding agents: guardrail hook, shared journal, test agent, review queue. | `Rust` `Shell` |
+| **[lazywifi](https://github.com/arielonoriaga/lazywifi)** | Terminal UI for NetworkManager: wifi, ethernet, VPN, QR sharing. | `Rust` `ratatui` |
+| **[term-toolkit](https://github.com/arielonoriaga/term-toolkit)** | One binary, ten everyday dev commands: files, image/audio/video, git digests, build signing. | `Rust` |
 
 <div align="center">
 <a href="https://github.com/arielonoriaga?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repos" /></a>
