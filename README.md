@@ -243,14 +243,13 @@ Scenario generation + Monte Carlo simulation toolchain for regulated gaming math
 - Infrastructure cost-cut migrations
 - Greenfield Rust APIs with hexagonal architecture
 - Multi-tenant SaaS architecture & DDD design
+- Part-time contract engineering in Rust / TypeScript (around 20 h/week, hourly or retainer)
 
 </td>
 <td valign="top" width="50%">
 
 #### ❌ I don't take on
 
-- Staff augmentation or agency subcontracting
-- Engagements under 3 months
 - Ongoing support without defined scope
 - Crypto / Web3
 - Tech I haven't shipped to production
