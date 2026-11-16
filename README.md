@@ -4,11 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=720&height=50&lines=Ariel+Onoriaga" alt="Ariel Onoriaga" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=888888&center=true&vCenter=true&width=720&lines=I+cut+cloud+bills+90%25.;I+ship+regulated+systems+that+pass+audit+first+try.;AFIP+%C2%B7+ARCA+%C2%B7+GLI+%C2%B7+Lighthouse+98%2F100." alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=888888&center=true&vCenter=true&width=720&lines=Senior+Rust+engineer+for+payments%2C+billing+and+commerce+backends.;I+ship+regulated+systems+that+pass+audit+first+try.;I+cut+cloud+bills+90%25." alt="Tagline" />
 
 <br>
 
-**Argentine fiscal e-invoicing · GLI-certified gaming · Cost-cut migrations · Rust APIs**
+**Senior Rust engineer for payments, billing and commerce backends**
+
+<sub>7 years · Rust &amp; TypeScript · GLI-certified gaming · available on contract to US teams, ~20 h/week (UTC−3)</sub>
 
 <br>
 
@@ -239,6 +241,9 @@ Scenario generation + Monte Carlo simulation toolchain for regulated gaming math
 
 #### ✅ I take on
 
+- Payment-provider integrations that survive retries (idempotency keys, transactional outbox)
+- Billing and subscription systems: plans, usage-based billing, invoicing
+- Consolidating or migrating backend services to Rust, live and in phases
 - AFIP / ARCA fiscal e-invoicing for Argentine SaaS
 - GLI-track gaming (RNG, math, PAR sheets, certification prep)
 - Infrastructure cost-cut migrations
