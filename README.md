@@ -4,56 +4,55 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=720&height=50&lines=Ariel+Onoriaga" alt="Ariel Onoriaga" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=888888&center=true&vCenter=true&width=720&lines=Senior+Rust+engineer+for+payments%2C+billing+and+commerce+backends.;I+ship+regulated+systems+that+pass+audit+first+try.;I+cut+cloud+bills+90%25." alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=888888&center=true&vCenter=true&width=720&lines=Senior+AI+Engineer+%26+Production+Backend+Architect.;Agentic+systems+%C2%B7+MCP+%C2%B7+deterministic+guardrails.;Rust+%C2%B7+TypeScript+%C2%B7+Go+%C2%B7+AWS+%C2%B7+money-movement+systems." alt="Tagline" />
 
 <br>
 
-**Senior Rust engineer for payments, billing and commerce backends**
+**Senior AI Engineer & Production Backend Architect**
 
-<sub>7 years · Rust &amp; TypeScript · GLI-certified gaming · available on contract to US teams, ~20 h/week (UTC−3)</sub>
+<sub>7 years · Agentic Systems, MCP & Guardrails · TypeScript, Rust, Go, Python, AWS · Remote (UTC−3, US hours) · Full-time & contract</sub>
 
 <br>
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 <br>
 
 <table>
   <tr>
     <td align="center" width="240">
-      <h3>💸 $2,400/yr</h3>
-      <sub>saved per cost-cut migration</sub>
+      <h3>🤖 AI Systems & MCP</h3>
+      <sub>guardrails, multi-agent hubs, CI gates</sub>
     </td>
     <td align="center" width="240">
-      <h3>🎰 GLI-certified</h3>
-      <sub>gaming products shipped</sub>
+      <h3>🦀 30-crate Rust SaaS</h3>
+      <sub>915 releases · 62k+ sales · AI assistant</sub>
     </td>
     <td align="center" width="240">
-      <h3>🧾 AFIP / ARCA</h3>
-      <sub>fiscal compliance integrated</sub>
+      <h3>🛡️ GLI-Certified AWS</h3>
+      <sub>real-money multi-tenant platform</sub>
     </td>
   </tr>
 </table>
 
 <br>
 
-[![Open to Work](https://img.shields.io/badge/open_to_work-yes-22C55E?style=for-the-badge&labelColor=0D1117)](mailto:onoriagaariel@gmail.com)
 [![Portfolio](https://img.shields.io/badge/portfolio-arielonoriaga.huggian.com-A8430F?style=for-the-badge&labelColor=0D1117)](https://arielonoriaga.huggian.com)
-[![Email](https://img.shields.io/badge/email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:onoriagaariel@gmail.com)
+[![CV](https://img.shields.io/badge/CV_PDF-1466C4?style=for-the-badge&labelColor=0D1117)](https://arielonoriaga.huggian.com/ariel-onoriaga-cv.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/arielonoriaga/)
+[![Email](https://img.shields.io/badge/email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:onoriagaariel@gmail.com)
 [![Followers](https://img.shields.io/github/followers/arielonoriaga?style=for-the-badge&logo=github&logoColor=white&color=58A6FF&labelColor=0D1117&label=followers)](https://github.com/arielonoriaga?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=arielonoriaga&color=58A6FF&style=for-the-badge&label=views&labelColor=0D1117&base=1500)](https://github.com/arielonoriaga)
 
 <br>
 
-[ Proof ](#-proof--shipped--measured) **·** [ Client Work ](#-client-work--regulated-gaming) **·** [ How to Work With Me ](#-how-to-work-with-me) **·** [ Open Source ](#%EF%B8%8F-open-source) **·** [ Contact ](#-lets-talk)
+[ AI & Agent Open Source ](#-ai--agent-infrastructure-open-source) **·** [ Production Systems ](#-production-systems) **·** [ Regulated Cloud ](#-regulated-cloud-systems-aws) **·** [ Writing ](#-architecture-write-ups) **·** [ Contact ](#-lets-talk)
 
 </div>
 
@@ -61,242 +60,72 @@
 
 ---
 
-## 💸 Proof — shipped & measured
+## 🤖 AI & Agent Infrastructure (Open Source)
 
-> The strongest signal I can give you is a paying client whose bill went down.
-
-<br>
-
-<table>
-<tr>
-<td width="40%" valign="top">
-
-### Mudanzas Margarit
-
-**[mudanzasmargarit.com](https://mudanzasmargarit.com)**
-
-WordPress → static Astro migration.
-Same content. Same CMS workflow.
-Cheaper, faster, harder to break.
-
-`Astro` `TypeScript` `Bun` `Nginx` `GitHub Actions`
-
-</td>
-<td valign="top">
-
-| Metric | Before | After | Gain |
-|:-------|:------:|:-----:|-----:|
-| Load Time | 3.5s | 0.8s | **4.4× faster** |
-| RAM Usage | 600 MB | 30 MB | **20× less** |
-| Annual Cost | $2,700 | $300 | **90% saved** |
-| Lighthouse | 52/100 | 98/100 | **+46 points** |
-
-</td>
-</tr>
-</table>
+> Most AI prototypes fail in production because the boundary between probabilistic LLM steps and deterministic state is weak. I build the guardrails, MCP memory layers, and CI verification gates that make agentic systems trustworthy.
 
 <br>
 
-### 🦀 Ez-Stock — Inventory, POS & AFIP/ARCA invoicing SaaS
-
-**[ez-stock.huggian.com](https://ez-stock.huggian.com)** — Multi-tenant SaaS for Argentine retail.
-
-I built the full stack: backend, POS, storefront, desktop app, and the Go microservice that talks to AFIP for electronic invoicing. Financial-grade precision, hexagonal architecture, audited UI.
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Backend & data**
-- Rust (Axum), ~40 bounded contexts, 440+ PostgreSQL migrations
-- DDD + hexagonal architecture
-- `rust_decimal` for money — no float drift
-- AFIP fiscal e-invoicing via Go microservice
-
-**Frontend & native**
-- SolidJS + Vite + Tailwind v4, WCAG AA
-- Vitest unit tests + Playwright E2E
-- Tauri 2.0 desktop distribution
-
-</td>
-<td valign="top" width="50%">
-
-**POS**
-- Hierarchical pricing (Global → Sell Point → Provider → Product → Customer)
-- Combo recipes, customer ledger
-- Cash flow + settlement reports
-
-**Storefront**
-- Public catalog, cart, WhatsApp CTAs
-- Theme config, order dashboard
-
-</td>
-</tr>
-</table>
-
-`Rust` `Axum` `SQLx` `Go` `SolidJS` `Tauri` `PostgreSQL` `Docker`
-
-<br>
-
-### 🛒 Ez-Catalog — Argentine product catalog API
-
-**[ez-catalog.huggian.com](https://ez-catalog.huggian.com/)** — Rust API for food & consumer goods data.
-
-Seeded a clean catalog from Open Food Facts Argentina, then built the deduplication, normalization, and tiered API layer that makes it usable.
-
-- **Backend** — Rust + Axum, async Tokio, SQLx compile-time verified queries, Redis 1h cache
-- **Text normalization** — NFKD accent stripping, corporate-token removal, unit/container filtering
-- **Tiered API keys** — Free / Basic / Pro / Admin with per-tier rate limits
-- **Admin ops** — Brand & family merge endpoints for safe deduplication
-
-`Rust` `Axum` `SQLx` `Redis` `PostgreSQL` `Tokio`
-
-<br>
-
-### 🏢 Huggian — my software enterprise
-
-**[landing.huggian.com](https://landing.huggian.com/)** — The platform every product I ship runs on.
-
-Multi-tenant infra for my own portfolio: shared billing, identity, deploy pipeline. Same architecture I'd build for a client — I just happen to be the client too.
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Core API**
-Multi-tenant: product registry, Stripe + MercadoPago billing, customer mgmt, webhooks. DDD + bounded contexts.
-
-**Prospect Bot**
-Multi-model AI pipeline (Anthropic, OpenAI, Google, Groq) with live event feed and Telegram alerts.
-
-</td>
-<td valign="top" width="50%">
-
-**Deploy pipeline**
-Turbo monorepo → tag-triggered GitHub Actions → GHCR binaries → VPS via SSH → Telegram. Playwright E2E with 3-shard parallelization.
-
-**VPS layer**
-Nginx with SSL termination, hardening, per-app subdomain routing. Multi-stack isolation, hot reload, full task automation.
-
-</td>
-</tr>
-</table>
-
-`Bun` `Turbo` `Hono` `SolidJS` `Astro` `Drizzle ORM` `PostgreSQL` `Docker Compose`
+| Repo | What it solves | Stack |
+|:-----|:---------------|:------|
+| **[iron-suite](https://github.com/arielonoriaga/iron-suite)** | Zero-cloud SQLite FTS5 + stdio **MCP memory hub** and multi-agent engineering skills across Claude Code, Codex, and Antigravity. | `Rust` `MCP` `SQLite FTS5` |
+| **[claude-harness](https://github.com/arielonoriaga/claude-harness)** | Safety & self-improvement harness for AI coding agents — deterministic Rust tool-call guardrail, shared journal bus, test agent, review queue. | `Rust` `Shell` |
+| **[claude-irondev](https://github.com/arielonoriaga/claude-irondev)** | Adversarial multi-lens code-review subagent and orchestrated dev cycle for Claude Code. Refuses to rubber-stamp. | `Claude Code` `Agents` |
+| **[entropy-hunter](https://github.com/arielonoriaga/entropy-hunter)** | Deterministic code-health analyzer (complexity, coupling, churn, duplication) built as a CI regression gate to catch AI-generated code drift. | `TypeScript` `Rust` `Bun` |
+| **[lazyfetch](https://github.com/arielonoriaga/lazyfetch)** | Terminal HTTP client published on [crates.io](https://crates.io/crates/lazyfetch) as a 7-crate hexagonal Rust workspace with an IO-free core enforced in CI (146 tests). | `Rust` `Tokio` `ratatui` |
+| **[claude-statusline-bar](https://github.com/arielonoriaga/claude-statusline-bar)** | Information-dense status line for Claude Code — rate-limit countdowns, color ramps, git state. | `Shell` |
 
 <br>
 
 ---
 
-## 🎰 Client Work — Regulated Gaming
+## 🏗️ Production Systems
 
-> **What "GLI-certified" means in practice:** Gaming Laboratories International audits every line of RNG-touching code, every PAR sheet, every scenario. Products fail certification on first submission ~70% of the time. Mine passed.
+### Ez-Commerce & Huggian Ecosystem — Multi-Tenant SaaS + AI Assistant
 
-<br>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Game Manager AWS
-
-Multi-operator B2B serverless platform. GLI-compliant, multi-environment, production-hardened.
-
-- Go backend, Vue.js 3 player + admin frontends
-- Real-time gaming via WebSocket
-- Lottery / draw systems, third-party providers
-- GLI-compliant RNG with forced scenarios + audit trails
-- Terraform IaC, per-env deploys
-
-`Go` `Vue.js 3` `TypeScript` `AWS` `Terraform` `PostgreSQL` `DynamoDB`
-
-</td>
-<td valign="top" width="50%">
-
-### Wizards RNG — math & PAR sheet tooling
-
-Scenario generation + Monte Carlo simulation toolchain for regulated gaming math.
-
-- Python + Rust scenario generator
-- Monte Carlo engine, PAR sheet output
-- RTP-targeted, volatility-tuned models
-- Multiple game types
-- Publication-grade reports (Excel, Word)
-
-`Python` `Rust` `PostgreSQL`
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-## 🤝 How to work with me
+Built and operated solo using AI-augmented engineering with strict architecture, review, and test gates: **[arielonoriaga.huggian.com](https://arielonoriaga.huggian.com)** · **[huggian.com](https://huggian.com)**
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-#### ✅ I take on
-
-- Payment-provider integrations that survive retries (idempotency keys, transactional outbox)
-- Billing and subscription systems: plans, usage-based billing, invoicing
-- Consolidating or migrating backend services to Rust, live and in phases
-- AFIP / ARCA fiscal e-invoicing for Argentine SaaS
-- GLI-track gaming (RNG, math, PAR sheets, certification prep)
-- Infrastructure cost-cut migrations
-- Greenfield Rust APIs with hexagonal architecture
-- Multi-tenant SaaS architecture & DDD design
-- Part-time contract engineering in Rust / TypeScript (around 20 h/week, hourly or retainer)
+**AI & Orchestration**
+- In-app AI assistant inside Ez-Commerce for retail operations
+- Multi-model LLM pipelines (Anthropic, OpenAI, Google, Groq) with tool access, cost caps, and human-in-the-loop checkpoints
+- Consolidated three live services + a new AI module into a single Rust API & worker with dual-hash zero-reissue API key migration and cutover gates
 
 </td>
 <td valign="top" width="50%">
 
-#### ❌ I don't take on
-
-- Ongoing support without defined scope
-- Crypto / Web3
-- Tech I haven't shipped to production
+**Backend, Payments & Reliability**
+- 30-crate Cargo workspace (split from 543k-line single crate: 5.0×–8.7× faster incremental builds), 44 bounded contexts, 481 migrations, 915 releases
+- Payments that survive retries: idempotency keys, guarded state transitions, transactional outbox (`SKIP LOCKED` leased claims), offline POS sync
+- Shared TypeScript billing, entitlement, and identity core (Bun, Hono, Drizzle, PostgreSQL; 27 bounded contexts)
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-**How to start →** Email a 3-line brief: *what, why, deadline.* I reply within 48h with either a fit/no-fit answer or a 30-min intro call.
+`Rust` `Axum` `Tokio` `SQLx` `TypeScript` `Hono` `Drizzle` `PostgreSQL` `SolidJS` `Docker`
 
 <br>
 
-<a href="mailto:onoriagaariel@gmail.com"><img src="https://img.shields.io/badge/📩_Send_3--line_brief-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Send brief" /></a>
+### Regulated Cloud Systems (AWS)
 
-</div>
+Core engineer since Dec 2021 on a multi-tenant real-money gaming platform on AWS (Go / TypeScript monorepo; ~3,700 commits, ~38% of core repo).
+
+- Architected and maintain 5 shared TypeScript libraries and a game template adopted across studio game teams (~1,850 commits).
+- Co-developed RNG and game-math services with Monte Carlo simulation tooling (Go, Rust, Python); products passed **GLI (Gaming Laboratories International)** certification.
+- Own Terraform IaC across Lambda, API Gateway, DynamoDB, Aurora, ECS, CloudFront, SQS/SNS, and IoT Core, plus internal Rust/Go developer tooling.
 
 <br>
 
 ---
 
-## 🛠️ Open Source
+## ✍️ Architecture Write-Ups
 
-<sub>Tools I use daily, shipped publicly so others can use them too.</sub>
-
-<br>
-
-| Repo | What it does | Stack |
-|:-----|:-------------|:------|
-| **[claude-irondev](https://github.com/arielonoriaga/claude-irondev)** | Adversarial code-review subagent for Claude Code. Refuses to rubber-stamp. | `Claude Code` |
-| **[claude-statusline-bar](https://github.com/arielonoriaga/claude-statusline-bar)** | Information-dense statusline — groups, color ramps, rate-limit countdowns, git status. | `Shell` |
-| **[lazyfetch](https://github.com/arielonoriaga/lazyfetch)** | Postman in your terminal. Vim keys, YAML collections, Postman import. Published on [crates.io](https://crates.io/crates/lazyfetch) as a 7-crate hexagonal workspace with an IO-free core. | `Rust` `ratatui` `tokio` |
-| **[entropy-hunter](https://github.com/arielonoriaga/entropy-hunter)** | Deterministic code-health analyzer for Rust and TypeScript: complexity, coupling, churn, duplication, with a regression gate for CI. | `TypeScript` `Bun` |
-| **[claude-harness](https://github.com/arielonoriaga/claude-harness)** | Safety and self-improvement harness for AI coding agents: guardrail hook, shared journal, test agent, review queue. | `Rust` `Shell` |
-| **[lazywifi](https://github.com/arielonoriaga/lazywifi)** | Terminal UI for NetworkManager: wifi, ethernet, VPN, QR sharing. | `Rust` `ratatui` |
-| **[term-toolkit](https://github.com/arielonoriaga/term-toolkit)** | One binary, ten everyday dev commands: files, image/audio/video, git digests, build signing. | `Rust` |
-
-<div align="center">
-<a href="https://github.com/arielonoriaga?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repos" /></a>
-</div>
+- **[Payments that survive retries: idempotency keys, guarded transitions and an outbox in Rust](https://arielonoriaga.huggian.com/writing/payments-that-survive-retries/)**
+- **[Three services, one Rust binary: a phased live migration](https://arielonoriaga.huggian.com/writing/three-services-one-rust-binary/)**
 
 <br>
 
@@ -311,29 +140,20 @@ Scenario generation + Monte Carlo simulation toolchain for regulated gaming math
 <tr>
 <td valign="top" width="50%">
 
-**Backend**
-Rust (Axum, SQLx, Tokio) · Go (Lambda, microservices) · Hono · Bun · NestJS
+**AI & Agentic Systems**
+LLM orchestration (Anthropic, OpenAI, Google, Groq) · MCP (Model Context Protocol) · tool-calling guardrails · multi-agent workflows · SQLite FTS5 retrieval · human-in-the-loop · CI quality/eval gates
 
-**Frontend**
-Astro · SolidJS · React · Vue.js · TypeScript · Tailwind CSS · WebGL/GLSL
-
-**Databases**
-PostgreSQL · Drizzle ORM · SQLx (compile-time verified) · DynamoDB · Redis
-
-**Patterns**
-DDD · Hexagonal (ports & adapters) · Event-driven · Bounded contexts
+**Backend & Data**
+Rust (Axum, Tokio, SQLx) · TypeScript (Node, Bun, Hono, Drizzle) · Go · Python · PostgreSQL · DynamoDB · Redis · transactional outbox · idempotency
 
 </td>
 <td valign="top" width="50%">
 
-**CI/CD & Containers**
-GitHub Actions (matrix, path-based detection, E2E sharding) · `bun build --compile` · GHCR · Docker · Docker Compose
+**Cloud & Infrastructure**
+AWS (Lambda, API Gateway, DynamoDB, Aurora, ECS, CloudFront, SQS/SNS, IoT Core) · Terraform · Docker · GitHub Actions · nginx · systemd
 
-**Cloud & Servers**
-AWS (Lambda, API Gateway, DynamoDB, Aurora, ECS, S3, CloudFront, EventBridge) · Terraform · Nginx (SSL, rate limiting, hardening) · systemd
-
-**Gaming & AI**
-Phaser 4 (5+ shipped) · GLI RNG · PAR sheets · Monte Carlo · RTP · Spine · Anthropic / OpenAI / Google / Groq orchestration
+**Frontend & Architecture**
+SolidJS · React · Vue · Astro · PWA / offline sync · DDD · Hexagonal architecture · property & mutation testing
 
 </td>
 </tr>
@@ -349,19 +169,16 @@ Phaser 4 (5+ shipped) · GLI RNG · PAR sheets · Monte Carlo · RTP · Spine ·
 
 ## 💬 Let's talk
 
-<a href="mailto:onoriagaariel@gmail.com"><img src="https://img.shields.io/badge/Email_a_3--line_brief-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://arielonoriaga.huggian.com"><img src="https://img.shields.io/badge/Portfolio-A8430F?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/arielonoriaga/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://landing.huggian.com"><img src="https://img.shields.io/badge/huggian.com-FF5D01?style=for-the-badge&logo=safari&logoColor=white" alt="Huggian" /></a>
-<a href="https://ez-stock.huggian.com"><img src="https://img.shields.io/badge/ez--stock.huggian.com-E8622C?style=for-the-badge&logo=safari&logoColor=white" alt="Ez-Stock" /></a>
-<a href="https://ez-catalog.huggian.com"><img src="https://img.shields.io/badge/ez--catalog.huggian.com-14B8A6?style=for-the-badge&logo=safari&logoColor=white" alt="Ez-Catalog" /></a>
+Open to **full-time remote (US/global)** and **senior contract** roles in **AI Engineering, Agentic Systems, and Production Backends**.
+
+<br>
+
+<a href="mailto:onoriagaariel@gmail.com"><img src="https://img.shields.io/badge/Email-onoriagaariel@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
+<a href="https://arielonoriaga.huggian.com"><img src="https://img.shields.io/badge/Portfolio-arielonoriaga.huggian.com-A8430F?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/arielonoriaga/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
 
 <br><br>
 
-<sub>📍 Based in Argentina · 🕒 UTC-3 · 🌎 Async-comfortable with US, EU, LATAM teams</sub>
-
-<br><br>
-
-<a href="https://app.daily.dev/aonoriaga"><img src="https://api.daily.dev/devcards/v2/dDsB9Ksa0pT0bOa7aaWkO.png?type=default&r=hcg" width="356" alt="Ariel Onoriaga's Dev Card"/></a>
+<sub>📍 Argentina · 🕒 UTC−3 (full US business-hours overlap) · 🌎 Remote full-time & contract</sub>
 
 </div>
