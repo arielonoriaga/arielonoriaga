@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ariel Onoriaga — Senior AI Engineer and Backend Architect</title>
+  <desc id="desc">Production AI systems and high-reliability backends. An exploded isometric assembly connects the AI and MCP layer, Rust and TypeScript core, and production AWS infrastructure.</desc>
+  <defs>
+    <linearGradient id="slate" x2="1" y2=".35"><stop stop-color="#101B2E"/><stop offset="1" stop-color="#0B1220"/></linearGradient>
+    <linearGradient id="steel"><stop stop-color="#456078"/><stop offset=".48" stop-color="#263B51"/><stop offset="1" stop-color="#465D70"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M0 32V0H32" fill="none" stroke="#70869C" stroke-opacity=".13"/></pattern>
+  </defs>
+  <rect width="1280" height="360" fill="url(#slate)"/>
+  <rect width="1280" height="360" fill="url(#grid)"/>
+  <g id="frame" fill="none" stroke="#394859">
+    <path d="M21 21H1240L1259 40V339H21Z"/>
+    <path d="M20.5 34V20.5H34 M1246 339.5h13.5V326 M20.5 326v13.5H34" stroke="#748698"/>
+    <path d="M1198 21h35" stroke="#B46A48"/>
+    <path d="M841.5 48v264 M837 48h9 M837 312h9"/>
+  </g>
+  <g id="identity" font-family="Adwaita Sans, sans-serif">
+    <rect x="56" y="52" width="20" height="4" fill="#E8622C"/>
+    <text x="88" y="60" font-family="GeistMono Nerd Font Mono, monospace" font-size="16" letter-spacing=".85" fill="#E9B18F">SENIOR AI ENGINEER · BACKEND ARCHITECT · +7 YOE</text>
+    <text x="53" y="153" font-size="86" font-weight="800" letter-spacing="-3.6" fill="#F5F2E9">Ariel Onoriaga</text>
+    <text x="56" y="204" font-size="30" font-weight="650" letter-spacing="-.8" fill="#E5EBEF">Production AI Systems &amp; High-Reliability Backends</text>
+    <text x="56" y="239" font-size="19.5" fill="#B8C9D6">LLM Agents · MCP Servers · Deterministic Guardrails · Money-Movement Systems</text>
+  </g>
+  <g id="stack" font-family="GeistMono Nerd Font Mono, monospace" font-size="16" text-anchor="middle" fill="#DBE5EB">
+    <rect x="56" y="276" width="122" height="33" rx="7" fill="#152331" stroke="#405463"/>
+    <text x="117" y="298">TypeScript</text>
+    <rect x="186" y="276" width="63" height="33" rx="7" fill="#152331" stroke="#405463"/>
+    <text x="217.5" y="298">Rust</text>
+    <rect x="257" y="276" width="45" height="33" rx="7" fill="#152331" stroke="#405463"/>
+    <text x="279.5" y="298">Go</text>
+    <rect x="310" y="276" width="84" height="33" rx="7" fill="#152331" stroke="#405463"/>
+    <text x="352" y="298">Python</text>
+    <rect x="402" y="276" width="122" height="33" rx="7" fill="#152331" stroke="#405463"/>
+    <text x="463" y="298">PostgreSQL</text>
+    <rect x="532" y="276" width="55" height="33" rx="7" fill="#152331" stroke="#405463"/>
+    <text x="559.5" y="298">AWS</text>
+    <rect x="595" y="276" width="55" height="33" rx="7" fill="#152331" stroke="#405463"/>
+    <text x="622.5" y="298">MCP</text>
+  </g>
+  <g id="architecture" stroke-linejoin="round">
+    <g id="assembly" transform="translate(868 103) scale(.86)">
+      <path d="M-3 150 149 89 240 127 87 190Z" fill="none" stroke="#44617B" stroke-dasharray="3 5"/>
+      <g id="foundation" stroke="#8296A6">
+        <path d="M3 139 149 81 233 117 87 176Z" fill="#42586B"/>
+        <path d="m3 139 84 37v14L3 153Z" fill="#52697D"/>
+        <path d="m87 176 146 -59v14L87 190Z" fill="#23374A"/>
+        <path d="m97 177 125 -51" stroke="#F7BF2E"/>
+      </g>
+      <g id="web" stroke="#718A9E">
+        <path d="m40 85 16 7v58l-16 -7Z" fill="#6E8594"/>
+        <path d="m56 92 146 -58v58l-146 58Z" fill="url(#steel)"/>
+        <path d="m68 136 10 -18m-4 16 10 -18m-4 16 10 -18" stroke="#A4B7C4" fill="none"/>
+      </g>
+      <g id="core" stroke="#EF955E">
+        <path d="m3 62 84 37v14L3 76Z" fill="#AE4928"/>
+        <path d="m87 99 146 -59v14L87 113Z" fill="#773922"/>
+        <path d="M3 62 149 4 233 40 87 99Z" fill="#E8622C"/>
+        <path d="m18 62 131 -52 68 29" fill="none" stroke="#FFC198"/>
+      </g>
+      <path d="M33 10V59 M139 -33V13 M202 -6v48 M96 37v48" stroke="#7B97A8" fill="none" stroke-dasharray="3 5"/>
+      <g id="agent-layer" stroke="#55928F">
+        <path d="m33 10 106 -43 63 27L96 37Z" fill="#203D46"/>
+        <path d="m33 10 63 27v7L33 17Z" fill="#1B303A"/>
+        <path d="m96 37 106 -43v7L96 44Z" fill="#18303A"/>
+        <path d="m62 10 75 -30 36 15 -75 30Z" fill="#152C36"/>
+        <path d="m95 4 26 -11 18 8 -26 11Z" fill="#14B8A6" stroke="#7ECDC2"/>
+      </g>
+    </g>
+    <g id="leaders" fill="none" stroke-width="1.35">
+      <path d="m1042 100 23 -12h24" stroke="#14B8A6"/>
+      <path d="m1068 141 10 10h11" stroke="#E8622C"/>
+      <path d="m1068 211 12 6h9" stroke="#F7BF2E"/>
+    </g>
+    <g id="nodes">
+      <circle cx="1089" cy="88" r="3.2" fill="#14B8A6"/>
+      <circle cx="1089" cy="151" r="3.2" fill="#E8622C"/>
+      <circle cx="1089" cy="217" r="3.2" fill="#F7BF2E"/>
+    </g>
+    <g id="legend" font-family="GeistMono Nerd Font Mono, monospace" font-size="15" font-weight="500">
+      <text x="1099" y="94" fill="#83D9CE">AI &amp; MCP</text>
+      <text x="1099" y="157" fill="#F0A279">Rust / TS Core</text>
+      <text x="1099" y="223" fill="#F3D481">GLI · Prod AWS</text>
+    </g>
+  </g>
+  <g id="availability">
+    <path d="M870 278.5h354" fill="none" stroke="#394859"/>
+    <path d="M870 278.5h21" fill="none" stroke="#3B82F6" stroke-width="2"/>
+    <text x="1225" y="308" text-anchor="end" font-family="GeistMono Nerd Font Mono, monospace" font-size="16" fill="#B8C9D6">UTC−3 · US Hours · Remote</text>
+  </g>
+</svg>
