@@ -29,6 +29,8 @@
 
 > Most AI coding loops fail in production because memory is noisy and review is rubber-stamped. **[Iron Suite](https://github.com/arielonoriaga/iron-suite)** pairs a zero-cloud **SQLite FTS5 + stdio MCP memory hub** in Rust (with hard UTF-8 byte budgets, cross-session anchor linking, and SSH multi-machine sharing) with **7 role-isolated engineering skills & adversarial review subagents** for Claude Code, Codex, Cursor, and Antigravity.
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/arielonoriaga-iron-suite-88adhm)](https://m8ven.ai/mcp/arielonoriaga-iron-suite-88adhm?s=readme)
+
 ---
 
 ## AI & Rust Open Source
